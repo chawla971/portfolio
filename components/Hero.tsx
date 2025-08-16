@@ -57,7 +57,8 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Sahil, a full-stack Developer based in Canada.
+            Hi! I&apos;m Sahil, a passionate full-stack Developer based in
+            Canada.
           </p>
 
           <a href="#about">
