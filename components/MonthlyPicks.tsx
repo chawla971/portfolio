@@ -10,7 +10,8 @@ const MonthlyPicks = () => {
           <span className="text-purple">Current</span> Picks
         </h2>
         <p className="text-white-200 mb-12 text-center max-w-2xl">
-          Here's what I've been enjoying this month - from anime to music
+          Here&apos;s what I&apos;ve been enjoying this month - from anime to
+          music
         </p>
 
         <div className="grid md:grid-cols-2 gap-8 w-full max-w-4xl">
