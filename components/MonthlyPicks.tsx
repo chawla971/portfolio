@@ -1,7 +1,15 @@
+"use client";
+
 import { FaMusic, FaPlay, FaSpotify, FaPlayCircle } from "react-icons/fa";
 
 const MonthlyPicks = () => {
   const currentMonth = new Date().toLocaleString("default", { month: "long" });
+
+  const handleOpen = (url: string) => {
+    if (typeof window !== "undefined") {
+      window.open(url, "_blank");
+    }
+  };
 
   return (
     <section className="w-full py-16">
@@ -26,9 +34,8 @@ const MonthlyPicks = () => {
             </h4>
             <button
               onClick={() =>
-                window.open(
-                  "https://www.crunchyroll.com/series/GYVNXMVP6/cowboy-bebop",
-                  "_blank"
+                handleOpen(
+                  "https://www.crunchyroll.com/series/GYVNXMVP6/cowboy-bebop"
                 )
               }
               className="flex items-center gap-2 px-4 py-2 bg-orange-600 hover:bg-orange-700 text-white rounded-lg transition-colors cursor-pointer"
@@ -49,9 +56,8 @@ const MonthlyPicks = () => {
             </h4>
             <button
               onClick={() =>
-                window.open(
-                  "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh",
-                  "_blank"
+                handleOpen(
+                  "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
                 )
               }
               className="flex items-center gap-2 px-4 py-2 bg-green-600 hover:bg-green-700 text-white rounded-lg transition-colors cursor-pointer"

@@ -3,6 +3,7 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { IoClose } from "react-icons/io5";
 import { FaLocationArrow } from "react-icons/fa6";
+import Image from "next/image";
 
 interface Project {
   id: number;
@@ -58,15 +59,19 @@ const ProjectModal = ({ isOpen, onClose, project }: ProjectModalProps) => {
                 className="absolute inset-0"
                 style={{ backgroundColor: "#13162D" }}
               >
-                <img
+                <Image
                   src="/bg.png"
                   alt="background"
+                  width={768}
+                  height={256}
                   className="w-full h-full object-cover"
                 />
               </div>
-              <img
+              <Image
                 src={project.img}
                 alt={project.title}
+                width={768}
+                height={256}
                 className="absolute bottom-0 left-1/2 transform -translate-x-1/2 z-10 max-h-full"
               />
             </div>
