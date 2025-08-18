@@ -6,8 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "deploy": "vercel --prod"
+    "lint": "next lint"
+  },
+  "engines": {
+    "node": ">=18 <21"
   },
   "dependencies": {
     "@react-three/drei": "^9.105.4",
