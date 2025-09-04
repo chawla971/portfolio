@@ -1,8 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',             // generates the static 'out' folder on build
-  images: { unoptimized: true } // needed if you use next/image in static export
-  // trailingSlash: true,        // optional if you have static hosting quirks
+  // Removed output: 'export' for Vercel deployment
+  // Vercel handles SSR/ISR automatically
+  images: { 
+    unoptimized: true // Keep this for compatibility
+  }
 };
 
 export default nextConfig;
