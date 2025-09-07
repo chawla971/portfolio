@@ -1,21 +1,22 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/FTH6Dn3AyIQ" target="_blank">
-      <img src="https://github.com/adrianhajdin/portfolio/assets/151519281/c6ca3c03-6cb7-4f67-a9b9-a73da5bfa0d8" alt="Project Banner">
-    </a>
+    <img src="https://github.com/chawla971/portfolio/assets/151519281/c6ca3c03-6cb7-4f67-a9b9-a73da5bfa0d8" alt="Sahil Chawla Portfolio Banner">
   <br />
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-Framer-black?style=for-the-badge&logoColor=white&logo=framer&color=0055FF" alt="framer" />
+    <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logoColor=white&logo=php&color=777BB4" alt="php" />
+    <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logoColor=white&logo=python&color=3776AB" alt="python" />
   </div>
 
-  <h3 align="center">A Modern Next.js Portfolio</h3>
+  <h3 align="center">Sahil Chawla's Portfolio</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     A modern, interactive portfolio showcasing my journey as a Software Engineer and my passion for technology, psychology, and creative problem-solving.
     </div>
 </div>
 
@@ -25,50 +26,78 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Code to Copy](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
-
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/FTH6Dn3AyIQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+5. 🕸️ [Code Examples](#snippets)
+6. 🔗 [Connect With Me](#links)
+7. 🚀 [About This Portfolio](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for beautiful animations, and styled with TailwindCSS, this portfolio demonstrates the developer's skills in a unique manner that creates a lasting impact.
+Welcome to my personal portfolio! This is a modern, interactive showcase of my journey as a Software Engineer, built with Next.js, Three.js, and Framer Motion. 
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
+As a tech enthusiast with a passion for psychology, I've created this portfolio to demonstrate not just my technical skills, but also my personality and interests. The site features:
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+- **Interactive 3D elements** that bring the experience to life
+- **Personal project showcases** highlighting my real-world experience
+- **Monthly picks section** where I share my current favorite anime and music
+- **Dynamic animations** that create an engaging user experience
+- **Responsive design** that works seamlessly across all devices
+
+This portfolio represents my commitment to continuous learning and my belief that technology should be both functional and delightful to use.
+
+**Currently seeking Full-Time Software Engineer opportunities** - let's connect and build something amazing together!
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
-- Three.js
-- Framer Motion
-- Tailwind CSS
+### Portfolio Website
+- **Next.js** - React framework for production
+- **React** - Component-based UI library
+- **TypeScript** - Type-safe JavaScript
+- **Tailwind CSS** - Utility-first CSS framework
+- **Three.js** - 3D graphics library
+- **Framer Motion** - Animation library
+
+### My Overall Tech Stack
+*Technologies I've used across various projects*
+
+**Frontend & UI**
+- React, Next.js, TypeScript, Tailwind CSS, Jest
+
+**Backend & APIs**
+- Node.js, PHP, C#, .NET, Laravel, REST APIs
+
+**Data & Analytics**
+- Python, MySQL, PostgreSQL, Excel, Power BI
+
+**Tools & DevOps**
+- Git, AWS, Docker, Swagger, GitHub Actions
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Hero**: Captivating introduction featuring a spotlight effect and dynamic background.
+👉 **Hero Section**: Captivating introduction featuring a spotlight effect and dynamic background with personalized messaging.
 
-👉 **Bento Grid**: Modern layout presenting personal information using cutting-edge CSS design techniques.
+👉 **Bento Grid**: Modern layout presenting personal information using cutting-edge CSS design techniques, showcasing my personality and interests.
 
-👉 **3D Elements**:  Interactive 3D design elements, such as a GitHub-style globe and card hover effects, adding depth and engagement.
+👉 **Skills Showcase**: Interactive display of technical skills organized by category (Frontend, Backend, Data & Analytics, Tools).
 
-👉 **Testimonials**: Dynamic testimonials area with scrolling or animated content for enhanced engagement.
+👉 **Project Gallery**: Real-world project showcases including:
+   - CMAP Data Export & Reporting system
+   - HelpMe: Confluence → AI Chatbot Pipeline
+   - Exam Analytics Dashboard
+   - ServiceNow Ticket Insights
 
-👉 **Work Experience**: Prominent display of professional background for emphasis and credibility.
+👉 **Experience Timeline**: Professional background highlighting co-op experiences and internships with detailed descriptions.
 
-👉 **Canvas Effect**: Innovative use of HTML5 canvas to create visually striking effects in the "approaches" section.
+👉 **Monthly Picks**: Personal touch featuring current favorite anime and music recommendations with direct links to streaming platforms.
 
-👉 **Responsiveness**: Seamless adaptability across all devices, ensuring optimal viewing experience for every user.
+👉 **3D Elements**: Interactive 3D design elements, including a GitHub-style globe and card hover effects, adding depth and engagement.
 
-and many more, including code architecture and reusability 
+👉 **Canvas Effects**: Innovative use of HTML5 canvas to create visually striking effects in the "approaches" section.
+
+👉 **Floating Navigation**: Smooth, responsive navigation that follows the user as they scroll through the portfolio.
+
+👉 **Responsive Design**: Seamless adaptability across all devices, ensuring optimal viewing experience for every user.
+
+👉 **Modern Animations**: Framer Motion animations that bring the interface to life with smooth transitions and micro-interactions. 
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -85,7 +114,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/portfolio.git
+git clone https://github.com/chawla971/portfolio.git
 cd portfolio
 ```
 
@@ -185,68 +214,73 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    title: "CMAP Data Export & Reporting",
+    des: "Automated curriculum-mapping exports with PHP(Laravel) + MySQL, generating analysis-ready Excel reports and cutting manual work for instructors.",
+    img: "/cmap.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/adrianhajdin?tab=repositories",
+    skills: ["PHP", "Tailwind CSS", "Laravel", "node.js", "MySQL"],
+    link: "https://curriculum.ok.ubc.ca/",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
+    title: "HelpMe: Confluence → AI Chatbot Pipeline",
+    des: "Python pipeline that ingests Confluence content into a pgvector-backed store to power context-aware Q&A with secure token-based access.",
+    img: "/helpme.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    skills: ["React", "TypeScript", "Docker", "PostgreSQL", "Python"],
+    link: "https://coursehelp.ubc.ca/courses",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
+    title: "Exam Analytics Dashboard",
+    des: "Full-stack dashboard for assessment insights—React/Next.js UI, Node.js APIs, and SQL queries for fast, actionable faculty analytics.",
+    img: "/ct3.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/ai_saas_app",
+    skills: [
+      "React",
+      "Tailwind CSS",
+      "TypeScript",
+      "Three.js",
+      "PHP",
+      "MySQL",
+      "PHPUnit",
+      "Jest",
+    ],
+    link: "https://github.com/UBCO-COSC499-S2025/team-3-capstone-ct3/tree/master",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "ServiceNow Ticket Insights",
+    des: "Data pipeline + visualizations to track helpdesk volume, resolution time, and onboarding issues; informed process improvements.",
+    img: "/serviceNow.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    skills: [
+      "Python",
+      "MS Excel",
+      "Power BI",
+      "ServiceNow",
+      "Python libraries for analytics",
+    ],
+    link: "https://github.com/chawla971",
   },
 ];
 
-export const testimonials = [
+export const skills = [
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    category: "Frontend",
+    technologies: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Jest"],
   },
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    category: "Backend",
+    technologies: ["Node.js", "PHP", "C#", ".NET", "Laravel", "REST APIs"],
   },
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    category: "Data & Analytics",
+    technologies: ["Python", "Excel", "Power BI", "MySQL", "postgreSQL"],
   },
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    category: "Tools & Others",
+    technologies: ["Git", "AWS", "Swagger", "Cursor", "Github Actions"],
   },
 ];
 
@@ -286,31 +320,24 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Full-stack Programmer CMAP (Co-op)",
+    desc: "Built an automated data-export feature for CMAP (PHP/OOP, MySQL) that assembles program/course data into analysis-ready Excel reports per stakeholder needs—eliminating manual spreadsheets and accelerating curriculum planning",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
+    title: "Learning Technology Rover (Co-op)",
+    desc: "Delivered multi-channel ed-tech support and analyzed 500+ ServiceNow tickets (Python/Excel) into dashboards that cut resolution time 30%—while leading a WCAG-compliant CTL website redesign to improve navigation and accessibility.",
+    className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
-  },
-  {
-    id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Software Engineer Intern",
+    desc: "Built modular MVVM React/TypeScript UIs and C#/.NET REST APIs in Agile sprints for bike & permit apps—implementing DI, structured logging, and resilient error handling on Azure to improve maintainability, observability, and scalability.",
     className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
+    thumbnail: "/exp3.svg",
   },
 ];
 
@@ -318,14 +345,12 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/chawla971",
   },
   {
     id: 2,
-    img: "/twit.svg",
-  },
-  {
-    id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/sahil-chawla-971sai/",
   },
 ];
 ```
@@ -657,17 +682,30 @@ style={{
 </details>
 
 
-## <a name="links">🔗 Assets</a>
+## <a name="links">🔗 Connect With Me</a>
 
-Assets used in the project can be found [here](https://drive.google.com/file/d/1ZmtiMilUYTp1wkiXWMFX6AUk-msE981-/view?usp=sharing)
+- **GitHub**: [@chawla971](https://github.com/chawla971)
+- **LinkedIn**: [Sahil Chawla](https://www.linkedin.com/in/sahil-chawla-971sai/)
+- **Email**: [Contact me directly](mailto:your-email@example.com)
 
-## <a name="more">🚀 More</a>
-**Advance your skills with Next.js Pro Course**
+## <a name="more">🚀 About This Portfolio</a>
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+This portfolio was built as a personal project to showcase my skills and personality. It combines modern web technologies with creative design to create an engaging user experience.
 
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
+**Key Highlights:**
+- Built with Next.js 14 and TypeScript for type safety
+- Features custom 3D animations using Three.js
+- Responsive design that works on all devices
+- Personal touches like monthly recommendations
+- Real project showcases with live demos
 
-<!-- Trigger fresh deployment - 2025-01-17 -->
+**Technologies Used:**
+- Frontend: Next.js, React, TypeScript, Tailwind CSS
+- 3D Graphics: Three.js, Framer Motion
+- Backend: Node.js, PHP, C#
+- Databases: MySQL, PostgreSQL
+- Tools: Git, Docker, AWS
+
+Feel free to explore the code and reach out if you'd like to collaborate on a project!
+
+<!-- Portfolio updated - 2025-01-17 -->
